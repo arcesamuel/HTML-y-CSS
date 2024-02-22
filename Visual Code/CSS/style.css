@@ -1,0 +1,23 @@
+h1, h6, p {
+    color:orangered;
+    font-size: 28px;
+    text-align: center;
+}
+
+#idParrafo1{
+    color:brown;
+    font-size: 24 px;
+    text-align: right;
+}
+
+id#parrafo1{
+    color:teal;
+    font-size: 26 px;
+    text-align: left;
+}
+
+.ParrafoGenerico{
+    color:yellowgreen;
+    font-size: 32;
+    text-align: left;
+}
